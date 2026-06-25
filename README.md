@@ -1,5 +1,7 @@
 # Publications — Sheldon X.-D. Tan
 
+**Browse online: https://sheldonucr.github.io/published_papers/**
+
 Complete publication list and full-text PDF archive of **Prof. Sheldon X.-D. Tan**,
 Department of Electrical and Computer Engineering, University of California, Riverside —
 [VLSI System and Computation Lab (VSCLAB)](https://vsclab.ece.ucr.edu/).
@@ -8,11 +10,10 @@ Department of Electrical and Computer Engineering, University of California, Riv
 
 A browseable version of the list is published with **GitHub Pages**:
 
-> **https://sheldonucr.github.io/_REPO_/**
+> **https://sheldonucr.github.io/published_papers/**
 
-Click any paper title to open its PDF. *(Replace `_REPO_` with this repository's name. To
-enable the page: repository **Settings → Pages → Build and deployment → Source: Deploy from a
-branch → `main` / root**.)*
+Click any paper title to open its PDF. *(To enable the page: repository **Settings → Pages →
+Build and deployment → Source: Deploy from a branch → `main` / root**.)*
 
 ## Contents
 
